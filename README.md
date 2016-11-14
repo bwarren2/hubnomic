@@ -132,10 +132,6 @@ Each player always has exactly one vote.
 
 The winner is the first player to achieve 200 (positive) points.
 
-### Rule -104.
-
-At no time may there be more than 25 mutable rules.
-
 ### Rule -103.
 
 If two or more mutable rules conflict with one another, or if two or more immutable rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
