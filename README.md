@@ -98,11 +98,11 @@ One turn consists of two parts in this order:
 
 1. proposing one rule-change and having it voted on, and
 
-2. scoring the proposal and adding that score to the proposing player's score.
+2. scoring the proposal and multiplying that score with the proposing player's score.
 
-A proposal is scored by taking the proposal number, adding nine to it, multiplying the result by the fraction of favourable votes the proposal received, and rounding that result to the nearest integer.
+A proposal is scored by taking the proposal number, adding nine to it, multiplying the result by zero, and rounding that result to the nearest integer.
 
-(This scoring system yields a number between 0 and 10 for the first proposal, with the upper limit increasing by one for each new proposal; more points are awarded for more popular proposals.)
+(This scoring system yields a number between 0 and 0 for the first proposal, with the upper limit increasing by none for each new proposal; more points are awarded for more popular proposals.)
 
 ### Rule -110.
 
