@@ -57,11 +57,6 @@ If a rule-change as proposed is unclear, ambiguous, paradoxical, or destructive 
 A reasonable time must be allowed for this debate.
 The proponent decides the final form in which the proposal is to be voted on and, unless the Judge has been asked to do so, also decides the time to end debate and vote.
 
-### Rule -205.
-
-The state of affairs that constitutes winning may not be altered from achieving n points to any other state of affairs.
-The magnitude of n and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
-
 ### Rule -204.
 
 A player always has the option to forfeit the game rather than continue to play or incur a game penalty.
@@ -178,3 +173,8 @@ A rule-change is any of the following:
 3. the transmutation of an immutable rule into a mutable rule or vice versa.
 
 (Note: This definition implies that, at least initially, all new rules are mutable; immutable rules, as long as they are immutable, may not be amended or repealed; mutable rules, as long as they are mutable, may be amended or repealed; any rule of any status may be transmuted; no rule is absolutely immune to change.)
+
+### Rule 4.
+
+The state of affairs that constitutes winning may not be altered from achieving _n_ points to any other state of affairs.
+The magnitude of _n_ and the means of earning points may be changed, and rules that establish a winner when play cannot continue may be enacted and (while they are mutable) be amended or repealed.
